@@ -2,7 +2,7 @@
 title: Linux do každé rodiny
 ---
 
-**Cílem projektu je ukázat, že Linux konečně plnohodnotnou alternativou pro komerční operační systémy. Projekt bude shrnovat nejznámější linuxové distribuce a radit BFU uživatelům s výběrem té správné. Dále pak nabízet linuxové alternativy komerčního SW používaného na těchto OS.**
+**Cílem projektu je ukázat, že Linux je konečně plnohodnotnou alternativou pro komerční operační systémy. Projekt bude shrnovat nejznámější linuxové distribuce a radit BFU uživatelům s výběrem té správné. Dále pak nabízet linuxové alternativy komerčního SW používaného na těchto OS.**
 
 Linux se pomalu, ale jistě dostává ze škatulky „systému pro nerdy a programátory“ do povědomí lidí jako přehledný, ale hlavně funkční systém i pro běžné uživatele. V českém prostředí chybí aktualizovaný zdroj informací o distribucích i desktopových prostředích (nic ve zlém, ale rady typu, vyber si, co chceš a uvidíš, nejsou košer).
 
