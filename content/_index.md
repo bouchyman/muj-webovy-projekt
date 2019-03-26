@@ -1,27 +1,18 @@
 ---
-title: Home
+title: Linux do každé rodiny
 ---
 
-# Hello World! (It works!)
+**Cílem projektu je ukázat, že Linux konečně plnohodnotnou alternativou pro komerční operační systémy. Projekt bude shrnovat nejznámější linuxové distribuce a radit BFU uživatelům s výběrem té správné. Dále pak nabízet linuxové alternativy komerčního SW používaného na těchto OS.**
 
-This are the contents of the Hugo start website front page.
+Linux se pomalu, ale jistě dostává ze škatulky „systému pro nerdy a programátory“ do povědomí lidí jako přehledný, ale hlavně funkční systém i pro běžné uživatele. V českém prostředí chybí aktualizovaný zdroj informací o distribucích i desktopových prostředích (nic ve zlém, ale rady typu, vyber si, co chceš a uvidíš, nejsou košer).
 
-## Something to read: Sonnet LXVI.
+Navíc kolem Linuxu panuje mnoho mýtů (jako například, že je složitý nebo, že ho vyvíjí parta brýlatých skrčků po nocích v garáži), které bych rád uvedl alespoň částečně na pravou míru. Když jsem přecházel na Linux, bylo prakticky nemožné najít nějaké relevantní zdroje v češtině (kromě scrollování článků na Rootu, kde to ovšem začátečníkům není moc přívětivé).
 
-> *Tired with all these, for restful death I cry,  
-> As to behold desert a beggar born,  
-> And needy nothing trimm'd in jollity,  
-> And purest faith unhappily forsworn,  
-> And gilded honour shamefully misplaced,  
-> And maiden virtue rudely strumpeted,  
-> And right perfection wrongfully disgraced,  
-> And strength by limping sway disabled  
-> And art made tongue-tied by authority,  
-> And folly, doctor-like, controlling skill,  
-> And simple truth miscalled simplicity,  
-> And captive good attending captain ill:  
-> Tired with all these, from these would I be gone,  
-> Save that, to die, I leave my love alone.*
-> 
-> William Shakespeare
+V neposlední řadě pak chybí aktualizovaný zdroj alternativního SW (pro multimédia, kancelářskou práci apod.) pro pohodlnou práci v systému.
+
+- https://www.makeuseof.com/tag/linux-finally-good-enough-replace-windows/
+- https://itsfoss.com/best-linux-beginners/
+- https://www.ubuntupit.com/best-linux-software-our-editorial-list-of-essential-linux-apps/
+
+
 
